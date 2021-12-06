@@ -1,8 +1,6 @@
 # REDDIT_CLI
 # Random post opner
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 This is a random post opener package via Node CLI
 
 ## Dependencies

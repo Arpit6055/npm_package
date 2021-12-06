@@ -1,16 +1,21 @@
 {
-  "name": "singh_reddit_cli",
-  "version": "0.0.1",
+  "name": "simple_reddit_cli",
+  "version": "0.0.2",
   "description": "",
   "main": "reddit.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Arpit6055/npm_package"
+  },
   "bin": {
     "reddit": "./reddit.mjs"
   },
-  "author": "",
+  "author": "Arpit singh",
   "license": "ISC",
+  "private": false,
   "dependencies": {
     "boxen": "^4.0.0",
     "node-fetch": "^3.0.0",
